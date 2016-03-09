@@ -1,5 +1,8 @@
 Roulette simulation written in scala
 
+[Link to article related to the codebase](http://blog.thelogichouse.co.uk/posts/3)
+
+
 To change roulette uncomment desired roulette type:
 
 ```scala
